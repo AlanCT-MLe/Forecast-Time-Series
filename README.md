@@ -3,7 +3,7 @@
 ![Time Series Banner](banner.png)
 
 ## 📌 1. Introduction
-This repository contains four lab assignments from a graduate-level **Time Series Analysis and Machine Learning** course.  
+This repository contains four lab assignments from a graduate-level **Time Series Analysis and Machine Learning** course at Linköping University.
 Each lab focuses on different aspects of modeling, analyzing, and predicting time series data, ranging from **classical statistical methods** to **deep learning approaches**.  
 The labs progressively build an understanding of time series fundamentals, linear models, state-space representations, and recurrent neural networks.
 
