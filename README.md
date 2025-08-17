@@ -20,7 +20,7 @@ The following libraries are used throughout the assignments:
 - 📉 `statsmodels`  
 - 🤖 `tensorflow` / `keras`
 
-## 📘 3. Lab 1 – Autoregressive Models and Forecasting
+## 📘 3. [Lab 1](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab1/tssl_lab1.ipynb) – Autoregressive Models and Forecasting
 
 - **🎯 Objective**: Introduce autoregressive (AR) models for time series and their properties.  
 - **📂 Content**:  
