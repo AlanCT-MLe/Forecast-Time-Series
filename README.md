@@ -1,6 +1,6 @@
 # ⏳ Time Series Labs
 
-![Time Series Banner](banner.png=100x200)
+<img src="banner.png" alt="drawing" width="200"/>
 
 ## 📌 1. Introduction
 This repository contains four lab assignments from a graduate-level **Time Series Analysis and Machine Learning** course at Linköping University.
