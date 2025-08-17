@@ -32,7 +32,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 📗 4. Lab 2 – ARMA and ARIMA Models
+## 📗 4. [Lab 2](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab2/tssl_lab2.ipynb) – ARMA and ARIMA Models
 
 - **🎯 Objective**: Extend autoregressive modeling with moving average components, leading to ARMA and ARIMA models.  
 - **📂 Content**:  
@@ -44,7 +44,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 📙 5. Lab 3 – State-Space Models and the Kalman Filter
+## 📙 5. [Lab 3](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab3/tssl_lab3.ipynb) – State-Space Models and the Kalman Filter
 
 - **🎯 Objective**: Explore state-space representations of time series and filtering techniques.  
 - **📂 Content**:  
@@ -56,7 +56,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 📕 6. Lab 4 – Recurrent Neural Networks
+## 📕 6. [Lab 4](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab4/tssl_lab4.ipynb) – Recurrent Neural Networks
 
 - **🎯 Objective**: Apply deep learning methods, particularly recurrent neural networks (RNNs), to time series prediction.  
 - **📂 Content**:  
