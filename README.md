@@ -2,14 +2,14 @@
 
 <img src="banner.png" alt="drawing" width="400"/>
 
-## 📌 1. Introduction
+## 📌 Introduction
 This repository contains four lab assignments from a graduate-level **Time Series Analysis and Machine Learning** course at Linköping University.
 Each lab focuses on different aspects of modeling, analyzing, and predicting time series data, ranging from **classical statistical methods** to **deep learning approaches**.  
 The labs progressively build an understanding of time series fundamentals, linear models, state-space representations, and recurrent neural networks.
 
 ---
 
-## ⚙️ 2. Requirements
+## ⚙️ Requirements
 All labs are implemented in **Python** using Jupyter notebooks.  
 The following libraries are used throughout the assignments:
 
@@ -20,7 +20,7 @@ The following libraries are used throughout the assignments:
 - 📉 `statsmodels`  
 - 🤖 `tensorflow` / `keras`
 
-## 📘 3. [Lab 1](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab1/tssl_lab1.ipynb) – Autoregressive Models and Forecasting
+## 📘 [Lab 1](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab1/tssl_lab1.ipynb) – Autoregressive Models and Forecasting
 
 - **🎯 Objective**: Introduce autoregressive (AR) models for time series and their properties.  
 - **📂 Content**:  
@@ -32,7 +32,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 📗 4. [Lab 2](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab2/tssl_lab2.ipynb) – ARMA and ARIMA Models
+## 📗 [Lab 2](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab2/tssl_lab2.ipynb) – ARMA and ARIMA Models
 
 - **🎯 Objective**: Extend autoregressive modeling with moving average components, leading to ARMA and ARIMA models.  
 - **📂 Content**:  
@@ -44,7 +44,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 📙 5. [Lab 3](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab3/tssl_lab3.ipynb) – State-Space Models and the Kalman Filter
+## 📙 [Lab 3](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab3/tssl_lab3.ipynb) – State-Space Models and the Kalman Filter
 
 - **🎯 Objective**: Explore state-space representations of time series and filtering techniques.  
 - **📂 Content**:  
@@ -56,7 +56,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 📕 6. [Lab 4](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab4/tssl_lab4.ipynb) – Recurrent Neural Networks
+## 📕 [Lab 4](https://github.com/AlanCT-MLe/Forecast-Time-Series/blob/main/Lab4/tssl_lab4.ipynb) – Recurrent Neural Networks
 
 - **🎯 Objective**: Apply deep learning methods, particularly recurrent neural networks (RNNs), to time series prediction.  
 - **📂 Content**:  
@@ -69,7 +69,7 @@ The following libraries are used throughout the assignments:
 
 ---
 
-## 🚀 7. Showcased Skills
+## 🚀 Showcased Skills
 
 Across these four labs, the repository demonstrates proficiency in:
 
